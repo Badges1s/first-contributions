@@ -1,4 +1,6 @@
 # Contributors
+- [Siddu Kuchula](https://github.com/SidduKutchula)
+
 -[Lorenzo Reitani](https://github.com/LorenzoReitani)
 - [Ayoub Aguezar ](https://github.com/Ayoub-glitsh)
 -[Maliha Fatima](https://github.com/Malihafatima1)
